@@ -1,2 +1,2 @@
-let numeroMaximo = 40; 
+let numeroMaximo = 50; 
 
