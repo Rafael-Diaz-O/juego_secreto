@@ -1,4 +1,4 @@
-let numeroMaximo = 60; 
+let numeroMaximo = 30; 
 
 
 
