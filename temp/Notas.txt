@@ -1,0 +1,2 @@
+-Mejorar las mecanicas del juegosecreto
+-terminar la logica del codigo 
